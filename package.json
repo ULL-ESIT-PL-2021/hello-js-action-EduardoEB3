@@ -2,15 +2,19 @@
   "name": "hello-js-action-EduardoEB3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx ncc build index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ULL-ESIT-PL-2021/hello-js-action-EduardoEB3.git"
   },
-  "keywords": [],
+  "keywords": [
+    "ULL",
+    "PL"
+  ],
   "author": "Eduardo Exposito Barrera <alu0101230382@ull.edu.es> (https://github.com/EduardoEB3)",
   "license": "ISC",
   "bugs": {
