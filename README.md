@@ -17,7 +17,10 @@ La hora en la que te saludamos
 ## Ejemplo de uso
 ```js
 uses: ULL-ESIT-PL-2021/hello-js-action-EduardoEB3@v1
-
 with:
   who-to-greet: 'Mona the Octocat'
 ```
+
+**Realizado por:** *Eduardo Expósito Barrera*
+
+**e-mail**: alu0101230382@ull.edu.es
